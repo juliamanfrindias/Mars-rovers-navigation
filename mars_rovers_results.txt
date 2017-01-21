@@ -1,0 +1,28 @@
+--------------------------------------------------
+Starting navigation...
+
+Initial rover's position: (1, 2)
+Rover's orietation:  N
+Final rover's position: (1,3)
+Final rover's orietation: N
+--------------------------------------------------
+Starting navigation...
+
+Initial rover's position: (1, 2)
+Rover's orietation:  N
+Final rover's position: (1,3)
+Final rover's orietation: N
+--------------------------------------------------
+Starting navigation...
+
+Initial rover's position: (3, 3)
+Rover's orietation:  E
+Final rover's position: (5,1)
+Final rover's orietation: E
+--------------------------------------------------
+Starting navigation...
+
+Initial rover's position: (2, 3)
+Rover's orietation:  E
+Final rover's position: (3,1)
+Final rover's orietation: S
